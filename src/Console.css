@@ -1,0 +1,24 @@
+img {
+    width: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.card {
+    width:50%;
+    padding: 10px;
+    margin:5px;
+}
+
+.c {
+    max-width: 540px;
+}
+
+.c img {
+    max-width: 100%;
+}
